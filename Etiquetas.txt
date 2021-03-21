@@ -5,3 +5,9 @@ Tabletas
 Ibuprofeno
 500 mg
 Capsulas de gel
+
+Diclofenaco
+800 mg
+Tabletas
+
+
